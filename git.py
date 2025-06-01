@@ -1,7 +1,7 @@
 import matplotlib
 class yzy:
-    def __init__(self,year,hight):
+    def __init__(self,year,hight,sex):
         self.year =year
-        self.hight = hight 
-        1235456
+        self.hight = hight
+        self.sex = sex
         
